@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grun\'s Task List and Other Tools</string>
+    <string name="nav_Add_client">Adicionar Cliente</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_add_client">Adicionar Cliente</string>
+    <string name="edit_phone">Telefone</string>
+    <string name="edit_celphone">Celular</string>
+    <string name="edit_name">Nome</string>
+    <string name="nav_view_clients">Ver Clientes</string>
+</resources>
